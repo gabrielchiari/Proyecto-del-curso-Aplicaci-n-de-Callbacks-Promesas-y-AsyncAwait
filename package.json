@@ -1,0 +1,24 @@
+{
+  "name": "curso-de-asincronismo-con-javascript",
+  "version": "1.0.0",
+  "description": "Proyecto del curso Aplicación de Callbacks, Promesas y AsyncAwait",
+  "main": "index.html",
+  "scripts": {
+    "callback": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielchiari/Proyecto-del-curso-Aplicaci-n-de-Callbacks-Promesas-y-AsyncAwait.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promesas",
+    "asyncAwait"
+  ],
+  "author": "Gabriel Chiari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielchiari/Proyecto-del-curso-Aplicaci-n-de-Callbacks-Promesas-y-AsyncAwait/issues"
+  },
+  "homepage": "https://github.com/gabrielchiari/Proyecto-del-curso-Aplicaci-n-de-Callbacks-Promesas-y-AsyncAwait#readme"
+}
